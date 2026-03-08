@@ -10,6 +10,20 @@ The rover uses an ESP32 microcontroller for navigation and an ESP32-CAM module f
 
 ---
 
+## Rover Prototype
+
+![Rescue Rover](images/rover_prototype.jpg)
+
+---
+
+## AI Human Detection
+
+The ESP32-CAM performs AI based human detection using a deployed deep learning model.
+
+![AI Detection](images/ai_human_detection.jpg)
+
+---
+
 ## Key Features
 
 • AI based human detection using ESP32-CAM  
