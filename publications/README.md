@@ -1,8 +1,9 @@
-# Research Publications
+## Research Publication
 
-This folder contains the IEEE research paper and conference certificate related to the AI Semi Autonomous Rescue Rover project.
+This project has been presented in an IEEE conference.
 
-Contents:
+📄 IEEE Paper  
+publications/IEEE_Rescue_Rover_Paper.pdf
 
-• IEEE Conference Paper  
-• IEEE Conference Presentation Certificate
+🏆 IEEE Conference Certificate  
+publications/IEEE_Conference_Certificate.pdf
