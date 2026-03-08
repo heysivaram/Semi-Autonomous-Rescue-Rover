@@ -15,7 +15,7 @@ This project has been presented in an IEEE conference.
 
 # Project Overview
 
-The ** Semi-Autonomous Rescue Rover** is designed to assist rescue teams in disaster environments such as earthquakes, collapsed buildings, and hazardous zones.
+The **Semi-Autonomous Rescue Rover** is designed to assist rescue teams in disaster environments such as earthquakes, collapsed buildings, and hazardous zones.
 
 The rover integrates **robotics, artificial intelligence, environmental monitoring, and health sensing** to detect survivors and hazards.
 
