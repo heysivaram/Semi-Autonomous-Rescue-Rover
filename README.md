@@ -208,6 +208,6 @@ When a survivor or hazard is detected:
 
 ---
 
-# Repository Structure
+# THANK YOU
 
 
