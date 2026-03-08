@@ -1,4 +1,4 @@
-# AI Semi-Autonomous Rescue Rover
+# Semi-Autonomous Rescue Rover
 
 ![Rescue Rover Prototype](images/rover_prototype.jpg)
 
@@ -15,7 +15,7 @@ This project has been presented in an IEEE conference.
 
 # Project Overview
 
-The **AI Semi-Autonomous Rescue Rover** is designed to assist rescue teams in disaster environments such as earthquakes, collapsed buildings, and hazardous zones.
+The ** Semi-Autonomous Rescue Rover** is designed to assist rescue teams in disaster environments such as earthquakes, collapsed buildings, and hazardous zones.
 
 The rover integrates **robotics, artificial intelligence, environmental monitoring, and health sensing** to detect survivors and hazards.
 
