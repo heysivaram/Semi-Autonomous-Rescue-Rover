@@ -1,43 +1,43 @@
 # Project Working
 
-The rover is designed to operate in disaster environments to locate survivors and detect hazards.
+The rover operates as a semi autonomous system designed for disaster rescue.
 
-## Navigation
+Step 1 Navigation
 
-The rover moves forward and scans the environment using an ultrasonic sensor mounted on a servo motor.
+The rover moves forward while scanning surroundings using an ultrasonic sensor mounted on a servo motor.
 
-If an obstacle is detected, the rover selects a new direction.
+If an obstacle is detected the rover changes direction.
 
-## Pit Detection
+Step 2 Pit Detection
 
-IR sensors mounted underneath detect pits or holes and prevent the rover from falling.
+Infrared sensors underneath detect pits or holes and prevent the rover from falling.
 
-## Human Detection
+Step 3 Human Detection
 
-Human presence is detected using:
+Human presence is detected using
 
-• ESP32-CAM AI vision  
-• PIR motion sensor  
-• Sound detection  
+ESP32-CAM AI vision  
+PIR motion sensor  
+Sound detection  
 
-## Temperature Verification
+Step 4 Temperature Verification
 
-The MLX90614 infrared temperature sensor measures body temperature to confirm human presence.
+MLX90614 infrared sensor measures body temperature.
 
-## Health Monitoring
+Step 5 Health Monitoring
 
-The MAX30100 sensor measures heart rate and oxygen level of detected victims.
+MAX30100 measures heart rate and blood oxygen level.
 
-## Environmental Monitoring
+Step 6 Environmental Monitoring
 
-Gas sensors detect hazardous gases.
+Gas sensor detects hazardous gases.
 
-Flame sensors detect fire hazards.
+Flame sensor detects fire hazards.
 
-## Alert System
+Step 7 Alert System
 
-If a human or hazard is detected:
+When a human or hazard is detected
 
-• Buzzer activates  
-• LED alert flashes  
-• Data is transmitted to the monitoring system
+Buzzer activates  
+LED flashes  
+GPS sends location
