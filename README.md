@@ -1,6 +1,6 @@
-> Semi Autonomous Rescue Rover <
+## Semi Autonomous Rescue Rover 
 
-> Overview
+## Overview
 
 The AI Semi Autonomous Rescue Rover is designed to assist rescue teams in disaster environments such as earthquakes, collapsed buildings, and hazardous zones.
 
@@ -10,7 +10,7 @@ The rover uses an ESP32 microcontroller for navigation and an ESP32-CAM module f
 
 ---
 
-> Key Features
+## Key Features
 
 • AI based human detection using ESP32-CAM  
 • Infrared temperature sensing for human detection  
@@ -25,7 +25,7 @@ The rover uses an ESP32 microcontroller for navigation and an ESP32-CAM module f
 
 ---
 
-> Applications
+## Applications
 
 • Disaster rescue operations  
 • Military surveillance  
@@ -33,6 +33,7 @@ The rover uses an ESP32 microcontroller for navigation and an ESP32-CAM module f
 • Industrial safety inspection
 
 ---
+
 ## IEEE Research Publication
 
 This project has been presented in an IEEE conference.
