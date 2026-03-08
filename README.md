@@ -31,3 +31,16 @@ The rover uses an ESP32 microcontroller for navigation and an ESP32-CAM module f
 • Military surveillance  
 • Hazardous environment monitoring  
 • Industrial safety inspection
+
+---
+## IEEE Research Publication
+
+This project has been presented in an IEEE conference.
+
+📄 **IEEE Paper**  
+[Download IEEE Paper](publications/IEEE_Rescue_Rover_Paper.pdf)
+
+🏆 **IEEE Conference Certificate**  
+[View Certificate](publications/IEEE_Conference_Certificate.pdf)
+
+
